@@ -14,8 +14,8 @@
 
 👤 **Mesfin Haile**
 
-- GitHub: [@wuletawwonte](https://github.com/mesfin345)
-- Twitter: [@wuletaww](https://twitter.com)
+- GitHub: [@Mesfin345](https://github.com/mesfin345)
+- Twitter: [@Mesfin](https://twitter.com)
 - LinkedIn: [LinkedIn](linkedin.com/in/mesfin-haile-380b64228/)
 
 ## 🤝 Contributing
