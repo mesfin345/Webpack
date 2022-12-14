@@ -12,7 +12,7 @@
 
 ## Authors
 
-👤 **Wuletaw Wonte**
+👤 **Mesfin Haile**
 
 - GitHub: [@wuletawwonte](https://github.com/mesfin345)
 - Twitter: [@wuletaww](https://twitter.com)
